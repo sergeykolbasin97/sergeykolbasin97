@@ -1,5 +1,6 @@
 ![55f1f99ec4fceab6af26e290a9bccdcd](https://github.com/sergeykolbasin97/sergeykolbasin97/assets/111511890/104c88a9-741a-4cbc-a25c-1fb2b55dc359)
-<center>### Hi everyone !<center>
+
+<center>### Hi everyone !</center>
 
 <!--
 **sergeykolbasin97/sergeykolbasin97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
