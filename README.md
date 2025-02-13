@@ -14,8 +14,8 @@
 ## 🔭 My skills and expertise:
 
 * Python (Django)
+* FastApi
 * SQL(PostgreSQL, MySQL, SQLite)
-* FAST API
 * Git
 * HTML
 * CSS (SCSS, Bootstrap)
